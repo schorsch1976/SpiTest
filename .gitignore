@@ -1,0 +1,8 @@
+*.user
+.idea
+*build*
+*.kdev4
+gdb-history
+**/.#*
+**/*~
+
